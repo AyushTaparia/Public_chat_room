@@ -35,9 +35,6 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
-
 ## Note:
 I have also used bootstrap for grid and nav bar.
 I have used background Image from [here](https://wallpapersden.com/cool-4k-pattern-wallpaper/)
